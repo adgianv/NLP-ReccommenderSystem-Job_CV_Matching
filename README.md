@@ -37,17 +37,16 @@ The project demonstrates that leveraging advanced machine learning models like l
 ## Repository Structure
 
 - `data/`: Contains datasets used for training and evaluation.
-- `notebooks/`: Jupyter notebooks detailing data preprocessing, model training, and evaluation.
-- `src/`: Source code for the interactive resume matching tool.
+- `Notebook-JobCVMatcher`: Jupyter notebooks detailing data preprocessing, model training, and evaluation.
+- `src/`: Source code for the library of util functions.
 - `README.md`: Overview of the project, methodology, and key findings.
-- `LICENSE`: License information for the repository.
 
 ## Getting Started
 
 To explore the project:
 1. Clone the repository.
-2. Review the Jupyter notebooks in the `notebooks/` directory for detailed steps.
-3. Run the interactive tool in the `src/` directory to match resumes with job titles.
+2. Review the Jupyter notebooks in the `Notebook-JobCVMatcher` notebook for detailed steps.
+3. Run the interactive tool at the end of the `Notebook-JobCVMatcher` notebook to match resumes with job titles.
 
 For further details and usage instructions, refer to the complete report and project documentation.
 
